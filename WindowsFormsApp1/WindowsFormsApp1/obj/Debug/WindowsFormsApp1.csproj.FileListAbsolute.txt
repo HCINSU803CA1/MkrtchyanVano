@@ -1,0 +1,11 @@
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\iscsi\profiles\MkrtchyanVK\Documents\c#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
